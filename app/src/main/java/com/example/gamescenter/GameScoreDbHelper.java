@@ -97,7 +97,7 @@ public class GameScoreDbHelper extends SQLiteOpenHelper {
             }
         }
 
-        // Add future version migrations here
+
     }
 
     public List<ScoreEntry> getAllScores() {
